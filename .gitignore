@@ -1,0 +1,16 @@
+# Scala:
+*.class
+*.log
+target/
+metastore_db/
+
+# IDEs and Editors:
+.idea/
+.sw[a-p]
+.*.sw[a-p]
+*~
+*.iml
+
+# macOS:
+*.DS_Store
+._*
